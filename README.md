@@ -31,8 +31,8 @@ A responsive weather application built with React and Ant Design, using the Open
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/faiznurfaza/simple-weather.git
-   cd simple-weather
+   git clone https://github.com/Faiznurfaza/simple-weather-app.git
+   cd simple-weather-app
    ```
 
 2. Install dependencies:
@@ -71,4 +71,5 @@ This project is licensed under the MIT License.
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Unsplash](https://unsplash.com/) for background images
 
-
+## Live Demo
+- [Simple Weather App](https://simple-weather-app-chi-indol.vercel.app/)
