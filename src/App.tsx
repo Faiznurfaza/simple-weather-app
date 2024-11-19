@@ -30,7 +30,7 @@ function App() {
     setIsLoading(true);
     try {
       const response = await axios.get(
-        `http://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=5&appid=${
+        `https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=5&appid=${
           import.meta.env.VITE_APP_API_KEY
         }`
       );
